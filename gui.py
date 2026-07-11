@@ -73,7 +73,6 @@ and visualize Titanic insights.
 
     st.image(
         "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=1200",
-        use_container_width=True
     )
 
     st.markdown("---")
